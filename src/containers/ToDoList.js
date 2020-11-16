@@ -1,9 +1,12 @@
 import React from 'react';
 import { connect } from 'react-redux';
 const ToDoList = ({todos}) => {
-  console.log(todos);
+  const todosToDisplay = todos.map((todo, i) => {
+    return <li key={i}>{todo.todo}</li>
+  });
   return (
     <ul>
+      {todosToDisplay}
     </ul>
   )
 }

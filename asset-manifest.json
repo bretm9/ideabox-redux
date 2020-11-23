@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ideabox-redux/static/css/main.fc956907.chunk.css",
+    "main.js": "/ideabox-redux/static/js/main.1c71c52b.chunk.js",
+    "main.js.map": "/ideabox-redux/static/js/main.1c71c52b.chunk.js.map",
+    "runtime-main.js": "/ideabox-redux/static/js/runtime-main.67703f24.js",
+    "runtime-main.js.map": "/ideabox-redux/static/js/runtime-main.67703f24.js.map",
+    "static/js/2.7fd549de.chunk.js": "/ideabox-redux/static/js/2.7fd549de.chunk.js",
+    "static/js/2.7fd549de.chunk.js.map": "/ideabox-redux/static/js/2.7fd549de.chunk.js.map",
+    "index.html": "/ideabox-redux/index.html",
+    "precache-manifest.2d42d6e2a619054a1b534f98d4de0cdc.js": "/ideabox-redux/precache-manifest.2d42d6e2a619054a1b534f98d4de0cdc.js",
+    "service-worker.js": "/ideabox-redux/service-worker.js",
+    "static/css/main.fc956907.chunk.css.map": "/ideabox-redux/static/css/main.fc956907.chunk.css.map",
+    "static/js/2.7fd549de.chunk.js.LICENSE": "/ideabox-redux/static/js/2.7fd549de.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67703f24.js",
+    "static/js/2.7fd549de.chunk.js",
+    "static/css/main.fc956907.chunk.css",
+    "static/js/main.1c71c52b.chunk.js"
+  ]
+}
